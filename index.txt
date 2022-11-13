@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <title>My Portfolio Website</title>
+	 <link rel="stylesheet" type="text/css" href="style.css">
+	 <link rel="preconnect" href="https://fonts.googleapis.com">
+	 <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Langar&display=swap" rel="stylesheet">	
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,300&family=Crimson+Text:ital@1&display=swap" rel="stylesheet">
+     <link rel="stylesheet" 
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+      />
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  /> 
+   <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+ </head>
+<body>
+
+<header>
+	<nav>
+		<div class="logo">Dhyey</div>
+		<div class="menu">
+			<a href="#">Portfolio</a>
+			<a href="#about">About</a>
+			<a href="#education">Education</a>
+			<a href="#">Skills</a>
+		</div>
+	</nav>
+
+	<div class="h-text animate__animated animate__zoomIn">
+			<h1>Hello! I'm Dhyey
+		a Future Developer...</h1>
+		<p>
+			I'm glad you're here! Check out my portfolio and education collification!
+		</p>
+		<a href="#">SAY HELLO</a>
+		<a href="#">MORE ABOUT ME</a>
+	</div>
+
+	<div class="icon animate__animated animate__swing animate__delay-1s">
+	<a href="https://www.facebook.com/profile.php?id=100082529187296"><i class="fa-brands fa-facebook"></i></a>
+	<a href="https://www.instagram.com/dj_dhyey/"><i class="fa-brands fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/in/dhyey-joshi-869184246/"><i class="fa-brands fa-linkedin"></i></a>
+	</div>
+     <img src="MY IMAGE.jpg" id="dhyey" class="animate__animated animate__slideInLeft animate__delay-1s">
+	<div class="box animate__animated animate__slideInDown"></div>
+</header>0
+
+
+<section id="about">
+	<div class="about-row">
+		<div class="about-left-col">
+			<img src="dhyey img.jpg">
+		</div>
+		<div class="about-right-col">
+			<h1>About <br>Me
+			</h1>
+			<p>I'm a Dhyey Joshi. I'm studing in R K University for Graduation. I'm studing B.voc for get practical and theatrical knowledge. I will be enterpreneur. My dream is a Employee Of Google or Facebook.</p>
+			<h1>My Career<br>Objective</h1>
+			<p>Get Some Knowledge and experience which help in my better and happy future</p>
+			<a href="#">Check out my Education<i class="fa fa-long-arrow-right"></i></a>
+		</div>
+	</div>
+</section>
+
+<section id="education">
+	<div class="education-row">
+		<div class="education-left-col">
+			<h1>sharing about <br>My Education</h1>
+			<h2><u>2019-2020</u></h2><p> My <font color="red">10th standard</font>result is<font color="blue">79%</font> in <u>P.V.Modi school.</u> [GSEB Board]
+			<h2><u>2021-2022</u></h2><p> My <font color="red">12th standard</font> result is<font color="blue">81%</font> in<u> G.K.Dholakiya school</u>. [GSHSEB Board]</p>
+			<h2><u>2022-2025</u></h2><p> I pursuing <font color="red">B.Voc (IT)</font> in <u>R K University</u></p>
+			<a href="#">Check out my skills<i class="fa fa-long-arrow-right"></i></a>
+		</div>
+		<div class="education-right-col">
+			<img src="edu2.jpg" border="10px">
+		</div>
+	</div>
+</section>
+
+<section class="Skills">
+	<div class="s-row">
+		<div class="r-left-col"></div>
+		<div class="r-right-col"></div>
+	</div>
+</section>
+
+<section class="information">
+	<div class="i-row">
+		<div class="i-left-col">
+			<div>
+				<h1>Personal Information</h1>
+				<dl>
+					<dt>Name: Dhyey Joshi</dt>
+					<dd>Geder: Male</dd>
+					<dt>DOB: 22/09/2004</dt>
+					<dd>Hometown: Rajkot</dd>
+					<dt>Language Known: Gujarati</dt>
+					<dd>Marital Status: Unmarried</dd>
+					<dt>Address: D-22 'Aalap Green City' Raiya Road ,Rajkot-360007</dt>
+					<dd>Email-Address- dhyey22joshi@gmail.com</dd>
+				</dl>
+				<a href="#">Visit My Website<i class="fa fa-long-arrow-right"></i></a>
+			</div>
+
+			<div>
+				<h1>Skills</h1>
+				<table border="2px">
+					<tr>
+						<th rowspan="3">Technical</th>
+						<td>M S Word</td>
+					</tr>
+					<tr>
+						<td>CCC Course</td>
+					</tr>
+					<tr>
+						<td>Wordpress</td>
+					</tr>
+				</table>
+								<table border="2px">
+					<tr>
+						<th rowspan="4">Non-Technical</th>
+						<td>Teamwork</td>
+					</tr>
+					<tr>
+						<td>Calmness</td>
+					</tr>
+					<tr>
+						<td>Learing Attitude</td>
+					</tr>
+				</table>
+			</div>
+			<div>
+				<h1>Hobbies And Interest</h1>
+				<table border="2px">
+					<tr>
+						<th rowspan="3">Hobbies</th>
+						<td>Accounting</td>
+					</tr>
+					<tr>
+						<td>Traveling</td>
+					</tr>
+				</table>
+								<table border="2px">
+					<tr>
+						<th rowspan="4">Interest</th>
+						<td>Watching Movies</td>
+					</tr>
+					<tr>
+						<td>Reading</td>
+					</tr>
+					<tr>
+						<td>Playing Chess</td>
+					</tr>
+				</table>
+				<i class="fa-brands fa-facebook"></i>
+	      <i class="fa-brands fa-instagram"></i>
+	      <i class="fa-brands fa-linkedin"></i>
+	  
+			</div>
+		</div>
+		<div class="i-right-col">
+			<h1>Work Hard to <br>Improve My Future</h1>
+			<img src="img2.jpg">
+		</div>
+	</div>
+</section>
+
+<footer>
+	<p>&hearts; Made By Dhyey &hearts;</p>
+	<p>SAY HELLO!</p>
+</footer>
+</body>
+</html>
